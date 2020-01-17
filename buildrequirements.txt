@@ -1,0 +1,4 @@
+
+gcc-arm-none-eabi
+openocd
+(git) opencm3
